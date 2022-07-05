@@ -1,0 +1,23 @@
+CREATE TABLE `login` (
+  `username` varchar(20) NOT NULL,
+  `password` varchar(20) NOT NULL,
+  PRIMARY KEY (`username`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci
+
+CREATE TABLE `surat_keluar` (
+  `id_klr` char(6) NOT NULL DEFAULT 'KLR###',
+  `no_surat` varchar(30) NOT NULL,
+  `tgl_surat` date NOT NULL,
+  `penerima` varchar(50) NOT NULL,
+  `perihal` varchar(100) NOT NULL,
+  PRIMARY KEY (`id_klr`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci
+
+CREATE TABLE `surat_masuk` (
+  `id_msk` char(6) NOT NULL DEFAULT 'MSK###',
+  `no_surat` varchar(30) NOT NULL,
+  `tgl_surat` date NOT NULL,
+  `pengirim` varchar(50) NOT NULL,
+  `perihal` varchar(100) NOT NULL,
+  PRIMARY KEY (`id_msk`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci
