@@ -17,7 +17,8 @@ Mail Archiver is a desktop application developed as part of a college assignment
 
 ### 🙏 Apology & Demo
 If the program does not run correctly on your machine due to configuration issues, I sincerely apologize. </br>
-You can still view the working demo of this project here:
+You can still view the working demo of this project here:</br>
+[Demo Video](https://youtu.be/QR_6Fw5sjq4?si=EWfuWXqaOXm0iiXE)
 
 ## 🤝 Contributing Guidelines
 1. Fork the project
