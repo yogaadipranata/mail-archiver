@@ -1,20 +1,32 @@
-<h1 align="center">Hi 👋, I'm I Wayan Yoga Adi Pranata</h1>
-<h3 align="center">I am an undergraduate electrical engineering student with a background in computer technology. During my studies, I learned about Software Engineering, Database Systems, Computer Architecture & Operating System, Machine Learning, Artificial Intelligence, and UI/UX.</h3>
+## Mail Archiver
 
-- 🌱 I’m currently studying at **Udayana University**
+Mail Archiver is a desktop application developed as part of a college assignment using the Visual Basic .NET programming language. The goal of this project was to implement all concepts learned during the course by creating a functional mail archiving system. The application allows organizations to manage and archive incoming and outgoing mail using a mail number as the primary reference. It is directly connected to a MySQL database to ensure efficient storage and retrieval of mail records.
 
-- 📫 How to reach me **yogaadipranata10@gmail.com**
+### 🛠️ Tech Stack
+* Visual Basic .NET
+* MySQL WorkBench
+* .NET Framework
 
-# mail-archiver
-This project is one of my tasks in college. In this project, I was required to use the Visual Basic .NET language and apply all the material obtained during the lecture. As for what I created, it is a mail archiver application that is directly connected to the MySQL database.
+## 🚀 Usage
 
+### 💻 Run Locally
+1. Clone the repository or download the ZIP.
+2. Open the arsip_surat.sln file in Visual Studio.
+3. Make sure the database connection string is updated in the source code (see Form1.vb, Form2.vb, Form3.vb, Form4.vb).
+4. Build and run the project (F5 or "Start").
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/yogaadipranata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yogaadipranata" height="30" width="40" /></a>
-<a href="https://instagram.com/yogaadipranata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yogaadipranata" height="30" width="40" /></a>
-</p>
+### 🙏 Apology & Demo
+If the program does not run correctly on your machine due to configuration issues, I sincerely apologize. </br>
+You can still view the working demo of this project here:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## 🤝 Contributing Guidelines
+1. Fork the project
+2. Create a feature branch (```git checkout -b ...```)
+3. Commit your changes (```git commit -m "..."```)
+4. Push to the branch (```git push origin ...```)
+5. Open a pull request
 
+## 📫 Contact
+I Wayan Yoga Adi Pranata
+
+[Email](mailto:yogaadipranata10@gmail.com)
